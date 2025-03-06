@@ -1,6 +1,5 @@
-## Welcome ✌️\
-\
-# About me\
+## Welcome ✌️ \
+# About me
 \
 🌱 I’m currently learning code and sofware development ...\
 👯 I’m collaborating on TheBabyLog ...\
