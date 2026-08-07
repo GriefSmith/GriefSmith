@@ -2,6 +2,6 @@
 # About me
 \
 🌱 Full-stack apprentice\
-👯 Collaborating on TheBabyLog & Origami\
+👯 Collaborating on Origami\
 🎨 Artistically inclined
 
