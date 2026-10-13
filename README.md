@@ -2,6 +2,6 @@
 # About me
 \
 🌱 Full-stack apprentice\
-👯 Collaborating on Origami\
+⛓️ Collaborating on DAG Chains\
 🎨 Artistically inclined
 
