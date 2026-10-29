@@ -1,7 +1,7 @@
 ## Welcome ✌️ 
 # About me
 \
-🌱 Full-stack apprentice\
+🌱 Full-stack engineer\
 ⛓️ Collaborating on DAG Chains\
 🎨 Artistically inclined
 
